@@ -14,7 +14,8 @@ export class News extends Component {
     static propTypes = {
         country: PropTypes.string,
         pageSize: PropTypes.number,
-        category: PropTypes.string
+        category: PropTypes.string,
+        page: PropTypes.number
     }
 
     capitalize = (string) => {
