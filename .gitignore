@@ -11,6 +11,11 @@
 # production
 /build
 
+# removed codes
+news-output.json
+previousNextButtons.txt
+readingfromarr.txt
+
 # misc
 .DS_Store
 .env.local
